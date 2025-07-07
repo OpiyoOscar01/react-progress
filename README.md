@@ -1,12 +1,57 @@
-# React + Vite
+# íº€ React Learning Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is dedicated to my journey of learning **React.js** â€” not every little detail, but just what's **practically necessary** to build real-world projects.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## í¾¯ Goal
 
-## Expanding the ESLint configuration
+To understand and apply the **core concepts** of React so I can:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Build useful, working React applications
+- Gain hands-on experience with components, props, hooks, and state
+- Learn by doing, not just reading
+
+---
+
+## í·± What Iâ€™m Focusing On
+
+- Functional Components
+- JSX and Rendering Logic
+- Props and Children
+- useState & useEffect Hooks
+- Conditional Rendering
+- Lifting State Up
+- Forms and Events
+- React Router (basic routing)
+- Component Reusability
+- Fetching Data (API integration)
+
+---
+
+## í» ï¸ Project-Based Learning
+
+This is not just notes â€” Iâ€™ll be creating small apps or components along the way to reinforce what I learn.
+
+---
+
+## í³Œ Notes and Progress
+
+Each key topic may include:
+
+- A `.md` file summarizing what Iâ€™ve learned
+- A React component or mini-project demonstrating the concept
+
+---
+
+## í²¡ Why This Repo Exists
+
+I wanted a focused place where I can:
+
+- Document my learning path
+- Track my growth over time
+- Help others who want to learn React practically, not academically
+
+---
+
+> **Made by Oscar Opiyo** â€” just a dev on a mission to learn by building.
