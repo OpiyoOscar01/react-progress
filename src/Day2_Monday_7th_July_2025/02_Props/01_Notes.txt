@@ -1,0 +1,44 @@
+📘 React Props — A Quick Guide
+Props (short for properties) are the data or arguments passed to a React component. They allow us to pass data from a parent component to a child component.
+
+Props are passed to components using HTML-like attributes and are accessible inside the component through the props object or via destructuring.
+
+You can also render nested elements using {props.children}.
+
+💡 Example
+Parent Component
+
+export const App = () => {
+  return (
+    <>
+      <User
+        img="path/to/the/image/or/url"
+        name="OscarSoftDev"
+        age={23}
+        isMarried={false}
+      />
+    </>
+  );
+};
+Child Component
+export default function User(props) {
+  return (
+    <main>
+      <div>
+        <h1>User Information</h1>
+        <img src={props.img} alt={props.name} />
+        <p>Name: {props.name}</p>
+        <p>Age: {props.age}</p>
+        <p>Marital Status: {props.isMarried ? "Married" : "Not Married"}</p>
+      </div>
+    </main>
+  );
+}
+✅ Key Takeaways
+Use props to pass dynamic data into reusable components.
+
+You can destructure props for cleaner code:
+
+function User({ img, name, age, isMarried }) { ... }
+{props.children} allows components to wrap other elements.
+
