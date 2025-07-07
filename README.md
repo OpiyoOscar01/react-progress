@@ -1,10 +1,10 @@
-# Ì∫Ä React Learning Tracker
+# React Learning Tracker
 
 This repository is dedicated to my journey of learning **React.js** ‚Äî not every little detail, but just what's **practically necessary** to build real-world projects.
 
 ---
 
-## ÌæØ Goal
+## Goal
 
 To understand and apply the **core concepts** of React so I can:
 
@@ -14,7 +14,7 @@ To understand and apply the **core concepts** of React so I can:
 
 ---
 
-## Ì∑± What I‚Äôm Focusing On
+## What I‚Äôm Focusing On
 
 - Functional Components
 - JSX and Rendering Logic
@@ -29,13 +29,13 @@ To understand and apply the **core concepts** of React so I can:
 
 ---
 
-## Ìª†Ô∏è Project-Based Learning
+## Project-Based Learning
 
 This is not just notes ‚Äî I‚Äôll be creating small apps or components along the way to reinforce what I learn.
 
 ---
 
-## Ì≥å Notes and Progress
+## Notes and Progress
 
 Each key topic may include:
 
@@ -44,7 +44,7 @@ Each key topic may include:
 
 ---
 
-## Ì≤° Why This Repo Exists
+## Why This Repo Exists
 
 I wanted a focused place where I can:
 
